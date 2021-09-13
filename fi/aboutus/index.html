@@ -42,8 +42,21 @@
       </div>
 	</ul>
 </head>
-		<div class="scls">
-			<font size="5.25">Työn alla.</font>
+	
+	
+		<div class="abtus">
+			<font size="5.25">
+	<script>
+	let str = `Geeks for Geeks is 
+           a computer science portal 
+           where people study computer science`;
+        let abtus = document.getElementById("abtus");
+        abtus.innerHTML = str;
+        function myFunc() {
+          str = str.replace(/(?:\r\n|\r|\n)/g, "<br>");
+          abtus.innerHTML = str;
+        }
+</script></font>
 </div>
     <div id="footer">
       <font size="4">&#169; Copyright Pia Crista Clothing Oy 2004 -
