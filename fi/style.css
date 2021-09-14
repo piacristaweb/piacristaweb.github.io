@@ -12,7 +12,7 @@
 body {
   font-family: "Urbanist", sans-serif;
   background-image: none;
-  background-color: #aa9079;
+  background-color: #E3BC9A;
   overflow-x: hidden;
   overflow-y: scroll;
   color: black;
@@ -51,7 +51,7 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #E3BC9A;
+  background-color: #aa9079;
 	color: black;
   border-radius: 20px;
 }
@@ -73,7 +73,7 @@ ul {
 }
 
 #sidebar a:hover:not(.active) {
-  background-color: #E3BC9A;
+  background-color: #aa9079;
 }
 
 #sidebar a.active {
@@ -87,7 +87,7 @@ ul {
   height: 60px;
   padding: 24px 0 5px 0;
   text-align: center;
-  background: #E3BC9A;
+  background: #aa9079;
   color: rgb(0, 0, 0)184, 122, 122);
   text-transform: none;
   letter-spacing: 0.1em;
