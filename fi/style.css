@@ -1,119 +1,117 @@
 @import url('/assets/Avenir.ttf');
-
 #main,
 #logo,
 #menubar,
 #site_content,
 #footer {
-  margin-left: auto;
-  margin-right: auto;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 body {
-  font-family: "Avenir Next";
-  background-image: none;
-  background-color: #E3BC9A;
-  overflow-x: hidden;
-  overflow-y: scroll;
-  color: black;
+    font-family: "Avenir Next";
+    background-image: none;
+    background-color: #E3BC9A;
+    overflow-x: hidden;
+    overflow-y: scroll;
+    color: black;
 }
 
 div.contact {
-	text-align: center;
-  margin-top: 60px;
+    text-align: center;
+    margin-top: 60px;
 }
 
 div.gallery {
-  margin: 5px;
-  float: center;
-  width: 180px;
-	border-radius: 25px;
-	align: center;
+    margin: 5px;
+    float: center;
+    width: 180px;
+    border-radius: 25px;
+    align: center;
 }
 
 div.gallery:hover {
-  border: 1px solid #777;
+    border: 1px solid #777;
 }
 
 div.gallery img {
-  width: 100%;
-  height: auto;
-	border-radius: 25px;
+    width: 100%;
+    height: auto;
+    border-radius: 25px;
 }
 
 div.desc {
-  padding: 15px;
-  text-align: center;
+    padding: 15px;
+    text-align: center;
 }
 
 ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
-  background-color: #aa9079;
-	color: black;
-  border-radius: 20px;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #aa9079;
+    color: black;
+    border-radius: 20px;
 }
 
 .active {
-  background-color: #87705b;
+    background-color: #87705b;
 }
 
 #sidebar {
-  float: left;
+    float: left;
 }
 
 #sidebar a {
-  display: block;
-  color: black;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
 }
 
 #sidebar a:hover:not(.active) {
-  background-color: #aa9079;
+    background-color: #aa9079;
 }
 
 #sidebar a.active {
-  background-color: #87705b;
+    background-color: #87705b;
 }
-
 
 #footer {
-  width: 898px;
-  font: normal 100%, Urbanist, sans-serif;
-  height: 160px;
-  padding: 24px 0 5px 0;
-  text-align: center;
-  background: #aa9079;
-  color: rgb(0, 0, 0)(184, 122, 122);
-  text-transform: none;
-  letter-spacing: 0.1em;
-  position: fixed;
-  bottom: 0px; 
-  width: 100%;
+    width: 898px;
+    font: normal 100%, Urbanist, sans-serif;
+    height: 160px;
+    padding: 24px 0 5px 0;
+    text-align: center;
+    background: #aa9079;
+    color: rgb(0, 0, 0)(184, 122, 122);
+    text-transform: none;
+    letter-spacing: 0.1em;
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
 }
 
 #footer a {
-  color: #FFF;
-  text-decoration: none;
+    color: #FFF;
+    text-decoration: none;
 }
 
 #footer a:hover {
-  color: #FFF;
-  text-decoration: underline;
+    color: #FFF;
+    text-decoration: underline;
 }
 
 #footer a {
-  color: #FFF;
-  text-decoration: none;
+    color: #FFF;
+    text-decoration: none;
 }
 
 #footer a:hover {
-  color: #FFF;
-  text-decoration: underline;
+    color: #FFF;
+    text-decoration: underline;
 }
 
 #aboutus {
