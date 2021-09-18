@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Urbanist&display=swap');
+@import url('/assets/Avenir.ttf');
 
 #main,
 #logo,
@@ -10,7 +10,7 @@
 }
 
 body {
-  font-family: "Urbanist", sans-serif;
+  font-family: "Avenir Next";
   background-image: none;
   background-color: #E3BC9A;
   overflow-x: hidden;
