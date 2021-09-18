@@ -114,8 +114,7 @@ ul {
     text-decoration: underline;
 }
 
-#aboutus {
-    text-align: center;
+div.aboutus {
     font-size: "3";
     font-family: "Avenir Next";
 }
