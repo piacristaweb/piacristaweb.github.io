@@ -32,7 +32,7 @@
 
     <div class="aboutus">
         <br>
-        <font size="5"><b>Pia Crista Clothing Oy on palveleva naistenvaateliike, joka sijaitsee mansikkapitäjässä
+        <font size="5"><b><?php echo "<p>test</p>" ?>Pia Crista Clothing Oy on palveleva naistenvaateliike, joka sijaitsee mansikkapitäjässä
 					Suonenjoella, Savon sydämessä.</b></font>
         <font><br><br> Pia Crista Clothing Oy on erikoistunut laadukkaisiin naisten käyttövaatteisiin, erinomaiseen asiakaspalveluun sekä asiakaskokemukseen. Ensiluokkaisten tuotteiden lisäksi Pia Crista Clothing Oy tarjoaa asiakkailleen täyden palvelukokemuksen.<br><br>            Pia Crista Clothing Oy tarjoaa asiakkailleen palvelunsa lisäksi ensiluokkaisia tuotteita. Pia Crista Clothing Oy panostaa tuotteissaan erityisesti laatuun, toimivuuteen sekä hintavertailu- kelpoisuuteen. Yrityksen idea on tarjota laadukkaita
             tuotteita, sopuisilla hinnoilla sekä ensiluokkaista asiakaspalvelua. Kivijalkaliikkeen filosofia pohjautuu vanhanajanmalliin tehdä kauppaa kasvotusten eikä niinkään nykytrendin mukaisesti verkossa. Verkkokauppaa ei toistaiseksi ole, mutta
